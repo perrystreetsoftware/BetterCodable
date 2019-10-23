@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BetterCodable"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "Better Codable through Property Wrappers"
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   Level up your Codable structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom init(from decoder: Decoder) throws and suffer through boilerplate.
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/BetterCodable"
+  spec.homepage     = "http://marksands.github.io/2019/10/21/better-codable-through-property-wrappers.html"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
