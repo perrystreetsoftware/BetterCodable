@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BetterCodable"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Better Codable through Property Wrappers"
 
   # This description is used to generate tags and improve search results.
@@ -70,8 +70,8 @@ Pod::Spec.new do |spec|
   #  When using multiple platforms
   spec.ios.deployment_target = "11.0"
   spec.osx.deployment_target = "10.7"
-  spec.watchos.deployment_target = "2.0"
-  spec.tvos.deployment_target = "9.0"
+  spec.watchos.deployment_target = "3.0"
+  spec.tvos.deployment_target = "10.0"
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
